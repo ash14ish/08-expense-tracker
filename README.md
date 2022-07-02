@@ -40,5 +40,6 @@ Your app is ready to be deployed!
 ## Implementation
 
 - Function based components.
+- React.Fragment() is used instead of div soup.
 - Detailed implementation of useState() which is used for state management.
 - React event management and lifting state up.
